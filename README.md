@@ -7,4 +7,5 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vasanth072006/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [3099-harshad-number](https://github.com/vasanth072006/leetcode/tree/main/3099-harshad-number/) | Easy |
 <!---LeetCode Topics End-->
