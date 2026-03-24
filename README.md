@@ -8,4 +8,8 @@ Program your thoughts...
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vasanth072006/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [3099-harshad-number](https://github.com/vasanth072006/leetcode/tree/main/3099-harshad-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vasanth072006/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 <!---LeetCode Topics End-->
