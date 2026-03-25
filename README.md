@@ -11,6 +11,7 @@ Program your thoughts...
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/vasanth072006/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vasanth072006/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vasanth072006/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
@@ -26,4 +27,8 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0041-first-missing-positive](https://github.com/vasanth072006/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->
