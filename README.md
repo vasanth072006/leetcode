@@ -14,4 +14,13 @@ Program your thoughts...
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vasanth072006/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vasanth072006/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
