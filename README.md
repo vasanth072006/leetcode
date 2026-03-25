@@ -13,4 +13,5 @@ Program your thoughts...
 | ------- | ------- |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vasanth072006/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vasanth072006/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 <!---LeetCode Topics End-->
