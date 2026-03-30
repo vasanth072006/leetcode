@@ -34,6 +34,7 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/vasanth072006/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Prefix Sum
@@ -49,9 +50,15 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vasanth072006/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
