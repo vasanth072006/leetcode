@@ -20,6 +20,7 @@ Program your thoughts...
 | [1480-running-sum-of-1d-array](https://github.com/vasanth072006/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vasanth072006/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vasanth072006/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/vasanth072006/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -48,4 +50,8 @@ Program your thoughts...
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vasanth072006/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 <!---LeetCode Topics End-->
