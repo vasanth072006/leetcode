@@ -33,6 +33,7 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/vasanth072006/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,5 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vasanth072006/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 <!---LeetCode Topics End-->
