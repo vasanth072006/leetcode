@@ -20,6 +20,7 @@ Program your thoughts...
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vasanth072006/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vasanth072006/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/vasanth072006/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vasanth072006/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
@@ -66,4 +67,8 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/vasanth072006/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
