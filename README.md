@@ -16,6 +16,7 @@ Program your thoughts...
 | [0168-excel-sheet-column-title](https://github.com/vasanth072006/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/vasanth072006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/vasanth072006/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/vasanth072006/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vasanth072006/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -154,6 +155,7 @@ Program your thoughts...
 | [0190-reverse-bits](https://github.com/vasanth072006/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vasanth072006/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0231-power-of-two](https://github.com/vasanth072006/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Matrix
@@ -220,6 +222,7 @@ Program your thoughts...
 | [0021-merge-two-sorted-lists](https://github.com/vasanth072006/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/vasanth072006/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vasanth072006/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/vasanth072006/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
