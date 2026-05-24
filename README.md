@@ -77,6 +77,7 @@ Program your thoughts...
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vasanth072006/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vasanth072006/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/vasanth072006/leetcode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vasanth072006/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Counting
