@@ -12,6 +12,7 @@ Program your thoughts...
 | [0066-plus-one](https://github.com/vasanth072006/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vasanth072006/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vasanth072006/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/vasanth072006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vasanth072006/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -181,4 +182,12 @@ Program your thoughts...
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/vasanth072006/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/vasanth072006/leetcode/tree/main/0069-sqrtx/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/vasanth072006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/vasanth072006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
