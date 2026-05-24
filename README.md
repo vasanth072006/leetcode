@@ -35,6 +35,7 @@ Program your thoughts...
 | [0041-first-missing-positive](https://github.com/vasanth072006/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/vasanth072006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/vasanth072006/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0682-baseball-game](https://github.com/vasanth072006/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -61,6 +62,7 @@ Program your thoughts...
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -154,6 +156,7 @@ Program your thoughts...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vasanth072006/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vasanth072006/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
