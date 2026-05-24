@@ -9,6 +9,7 @@ Program your thoughts...
 | [0009-palindrome-number](https://github.com/vasanth072006/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/vasanth072006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/vasanth072006/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3099-harshad-number](https://github.com/vasanth072006/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
