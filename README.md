@@ -19,6 +19,7 @@ Program your thoughts...
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vasanth072006/leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/vasanth072006/leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/vasanth072006/leetcode/tree/main/3099-harshad-number/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/vasanth072006/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Program your thoughts...
 | [2974-minimum-number-game](https://github.com/vasanth072006/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/vasanth072006/leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/vasanth072006/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
