@@ -93,6 +93,7 @@ Program your thoughts...
 | [0013-roman-to-integer](https://github.com/vasanth072006/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/vasanth072006/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vasanth072006/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vasanth072006/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/vasanth072006/leetcode/tree/main/0709-to-lower-case/) | Easy |
@@ -142,6 +143,7 @@ Program your thoughts...
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vasanth072006/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vasanth072006/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
@@ -161,4 +163,8 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vasanth072006/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
