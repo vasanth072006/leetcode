@@ -46,6 +46,7 @@ Program your thoughts...
 | [0136-single-number](https://github.com/vasanth072006/leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/vasanth072006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vasanth072006/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0682-baseball-game](https://github.com/vasanth072006/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -95,6 +96,7 @@ Program your thoughts...
 | [0202-happy-number](https://github.com/vasanth072006/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vasanth072006/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vasanth072006/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vasanth072006/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -108,6 +110,7 @@ Program your thoughts...
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vasanth072006/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vasanth072006/leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vasanth072006/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## String
