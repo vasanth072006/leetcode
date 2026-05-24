@@ -193,6 +193,7 @@ Program your thoughts...
 | [0141-linked-list-cycle](https://github.com/vasanth072006/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vasanth072006/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/vasanth072006/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vasanth072006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vasanth072006/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
@@ -204,6 +205,7 @@ Program your thoughts...
 | [0145-binary-tree-postorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/vasanth072006/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/vasanth072006/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vasanth072006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/vasanth072006/leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ Program your thoughts...
 | [0160-intersection-of-two-linked-lists](https://github.com/vasanth072006/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/vasanth072006/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vasanth072006/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vasanth072006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@ Program your thoughts...
 | [0203-remove-linked-list-elements](https://github.com/vasanth072006/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vasanth072006/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/vasanth072006/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vasanth072006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
