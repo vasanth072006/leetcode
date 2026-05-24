@@ -143,6 +143,7 @@ Program your thoughts...
 | ------- | ------- |
 | [0067-add-binary](https://github.com/vasanth072006/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/vasanth072006/leetcode/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/vasanth072006/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Matrix
@@ -273,6 +274,7 @@ Program your thoughts...
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanth072006/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/vasanth072006/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/vasanth072006/leetcode/tree/main/0190-reverse-bits/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
