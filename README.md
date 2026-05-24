@@ -93,6 +93,7 @@ Program your thoughts...
 | [0160-intersection-of-two-linked-lists](https://github.com/vasanth072006/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/vasanth072006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/vasanth072006/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/vasanth072006/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vasanth072006/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -121,6 +122,7 @@ Program your thoughts...
 | [0125-valid-palindrome](https://github.com/vasanth072006/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/vasanth072006/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/vasanth072006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/vasanth072006/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vasanth072006/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/vasanth072006/leetcode/tree/main/0709-to-lower-case/) | Easy |
