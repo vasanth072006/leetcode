@@ -13,6 +13,7 @@ Program your thoughts...
 | [0067-add-binary](https://github.com/vasanth072006/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vasanth072006/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/vasanth072006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/vasanth072006/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vasanth072006/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -112,6 +113,7 @@ Program your thoughts...
 | [0058-length-of-last-word](https://github.com/vasanth072006/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/vasanth072006/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/vasanth072006/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/vasanth072006/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vasanth072006/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/vasanth072006/leetcode/tree/main/0709-to-lower-case/) | Easy |
