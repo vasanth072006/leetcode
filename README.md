@@ -37,6 +37,7 @@ Program your thoughts...
 | [0066-plus-one](https://github.com/vasanth072006/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanth072006/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/vasanth072006/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0682-baseball-game](https://github.com/vasanth072006/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -192,6 +193,7 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vasanth072006/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/vasanth072006/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
