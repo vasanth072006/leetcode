@@ -108,6 +108,7 @@ Program your thoughts...
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/vasanth072006/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/vasanth072006/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/vasanth072006/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/vasanth072006/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/vasanth072006/leetcode/tree/main/0709-to-lower-case/) | Easy |
@@ -161,6 +162,7 @@ Program your thoughts...
 | [0027-remove-element](https://github.com/vasanth072006/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/vasanth072006/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vasanth072006/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
