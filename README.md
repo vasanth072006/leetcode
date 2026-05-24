@@ -288,4 +288,8 @@ Program your thoughts...
 | [0181-employees-earning-more-than-their-managers](https://github.com/vasanth072006/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/vasanth072006/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/vasanth072006/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/vasanth072006/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
