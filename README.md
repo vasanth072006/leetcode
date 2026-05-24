@@ -152,6 +152,7 @@ Program your thoughts...
 | [0136-single-number](https://github.com/vasanth072006/leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/vasanth072006/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vasanth072006/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Matrix
@@ -225,6 +226,7 @@ Program your thoughts...
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/vasanth072006/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/vasanth072006/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ Program your thoughts...
 | [0112-path-sum](https://github.com/vasanth072006/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +277,7 @@ Program your thoughts...
 | [0112-path-sum](https://github.com/vasanth072006/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
