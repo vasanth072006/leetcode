@@ -254,6 +254,7 @@ Program your thoughts...
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/vasanth072006/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +267,7 @@ Program your thoughts...
 | [0112-path-sum](https://github.com/vasanth072006/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/vasanth072006/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +282,7 @@ Program your thoughts...
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vasanth072006/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/vasanth072006/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +291,7 @@ Program your thoughts...
 | [0104-maximum-depth-of-binary-tree](https://github.com/vasanth072006/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vasanth072006/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vasanth072006/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/vasanth072006/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
