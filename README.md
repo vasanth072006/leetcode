@@ -8,6 +8,7 @@ Program your thoughts...
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vasanth072006/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/vasanth072006/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
 | [3099-harshad-number](https://github.com/vasanth072006/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -74,4 +75,12 @@ Program your thoughts...
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vasanth072006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/vasanth072006/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
