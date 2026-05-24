@@ -19,6 +19,7 @@ Program your thoughts...
 | [0231-power-of-two](https://github.com/vasanth072006/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/vasanth072006/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/vasanth072006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vasanth072006/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vasanth072006/leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -50,6 +51,7 @@ Program your thoughts...
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vasanth072006/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/vasanth072006/leetcode/tree/main/0228-summary-ranges/) | Easy |
+| [0268-missing-number](https://github.com/vasanth072006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0682-baseball-game](https://github.com/vasanth072006/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -79,6 +81,7 @@ Program your thoughts...
 | [0169-majority-element](https://github.com/vasanth072006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vasanth072006/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/vasanth072006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vasanth072006/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -102,6 +105,7 @@ Program your thoughts...
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vasanth072006/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/vasanth072006/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/vasanth072006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vasanth072006/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -160,6 +164,7 @@ Program your thoughts...
 | [0191-number-of-1-bits](https://github.com/vasanth072006/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/vasanth072006/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/vasanth072006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Matrix
@@ -243,6 +248,7 @@ Program your thoughts...
 | [0035-search-insert-position](https://github.com/vasanth072006/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/vasanth072006/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth072006/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/vasanth072006/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
