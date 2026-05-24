@@ -18,6 +18,7 @@ Program your thoughts...
 | [0202-happy-number](https://github.com/vasanth072006/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/vasanth072006/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/vasanth072006/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vasanth072006/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/vasanth072006/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vasanth072006/leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
