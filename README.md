@@ -47,6 +47,7 @@ Program your thoughts...
 | [0169-majority-element](https://github.com/vasanth072006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vasanth072006/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vasanth072006/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/vasanth072006/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0682-baseball-game](https://github.com/vasanth072006/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vasanth072006/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
