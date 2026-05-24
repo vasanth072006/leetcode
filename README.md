@@ -24,6 +24,7 @@ Program your thoughts...
 | [1480-running-sum-of-1d-array](https://github.com/vasanth072006/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vasanth072006/leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/vasanth072006/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vasanth072006/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vasanth072006/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/vasanth072006/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vasanth072006/leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -65,6 +66,7 @@ Program your thoughts...
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vasanth072006/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vasanth072006/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vasanth072006/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/vasanth072006/leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vasanth072006/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vasanth072006/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
