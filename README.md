@@ -84,6 +84,7 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vasanth072006/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/vasanth072006/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/vasanth072006/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vasanth072006/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vasanth072006/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -115,6 +116,7 @@ Program your thoughts...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/vasanth072006/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/vasanth072006/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/vasanth072006/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [2974-minimum-number-game](https://github.com/vasanth072006/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Number Theory
